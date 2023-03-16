@@ -113,10 +113,11 @@ body{
 /* circle burst animation */
 
 .animation-container{
-	z-index: 9;
 	position: absolute;
 	width: 750px;
 	height: 550px;
+	top: 0;
+	bottom:0;
 }
 
 .burst{
