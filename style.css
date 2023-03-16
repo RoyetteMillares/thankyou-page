@@ -25,10 +25,13 @@ body{
 }
 
 .text-container .go-back-btn{
-    background: #fff;
+    z-index: 999;
+	background: #fff;
     padding: 1.5rem 2rem;
     text-decoration: none;
     margin: 2.5rem 0;
+	cursor: pointer;
+	
 }
 
 .text-container .animated-text{
